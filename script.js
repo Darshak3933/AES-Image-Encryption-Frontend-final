@@ -1,4 +1,4 @@
-const backendUrl = "https://aes-image-encryption-backend1.onrender.com";
+const backendUrl = "https://aes-image-encryption-backend-final.onrender.com";
 
 // Event listener for the Encrypt button
 document.getElementById('encrypt-btn').addEventListener('click', async function () {
